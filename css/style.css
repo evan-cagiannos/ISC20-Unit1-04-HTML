@@ -1,0 +1,19 @@
+/* Created by: Evan Cagiannos
+ * Created on: Smnep 2020
+ * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: #f45cff;
+}
+
+h1 {
+  background-color: rgb(255, 255, 255);
+  color: hsl(266deg 62% 85%);
+  padding: 20px;
+  text-align: center;
+}
+
+p {
+  background-color: #ad77e6;
+}
